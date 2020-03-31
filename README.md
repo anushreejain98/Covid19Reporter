@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-# TrackCovid19
-## Coronavirus Covid-19 Tracking App Realtime Data - Volley Fetch REST API in Android Studio
 
-[![Full Tutorial](https://1.bp.blogspot.com/-k5E7E0I1wQM/XnA7A8fAX-I/AAAAAAAAA8E/FCBZx-vOJ-EByB1bH7vrD1c2vdDmVy7eACLcBGAsYHQ/s1600/Covid19.png)](https://youtu.be/P60i4P4E_e0 "Watch This")
+# TrackCovid19
+## Coronavirus Covid-19 Report Tracking App Realtime Da
 
 Data is always updated regularly\
 Public JSON API obtained from ► https://corona.lmao.ninja/
@@ -26,4 +24,4 @@ Link ► https://developer.android.com/training/volley/index.html
 =======
 # Covid19Reporter
 Android App to get CoVid19 Reports
->>>>>>> 14d6f1d23638151109b620bfccd773547070dc5b
+

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TrackCovid19
 ## Coronavirus Covid-19 Tracking App Realtime Data - Volley Fetch REST API in Android Studio
 
@@ -22,3 +23,7 @@ Link ► http://gg.gg/covid19Assets
 Volley Library
 Link ► https://developer.android.com/training/volley/index.html
 
+=======
+# Covid19Reporter
+Android App to get CoVid19 Reports
+>>>>>>> 14d6f1d23638151109b620bfccd773547070dc5b

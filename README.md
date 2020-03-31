@@ -1,6 +1,6 @@
 
 # TrackCovid19
-## Coronavirus Covid-19 Report Tracking App Realtime Da
+## Coronavirus Covid-19 Report Tracking App Realtime 
 
 Data is always updated regularly\
 Public JSON API obtained from ► https://corona.lmao.ninja/
